@@ -1,0 +1,10 @@
+Cities:
+City A: ID = 1, Coordinates = (2, 7), Demand = 70 units, Priority = Medium
+City B: ID = 2, Coordinates = (4, 7), Demand = 30 units, Priority = High
+City C: ID = 3, Coordinates = (9, 2), Demand = 20 units, Priority = Low
+City C: ID = 4, Coordinates = (18, 2), Demand = 50 units, Priority = High
+
+Warehouses:
+Warehouse X: ID = 101, Coordinates = (0, 10), Capacity = 100 units
+Warehouse Y: ID = 102, Coordinates = (9, 1), Capacity = 50 units
+Warehouse z: ID = 103, Coordinates = (19, 1), Capacity = 150 units

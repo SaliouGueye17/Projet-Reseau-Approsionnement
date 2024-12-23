@@ -1,0 +1,93 @@
+Cities:
+City A: ID = 1, Coordinates = (2, 3), Demand = 50 units, Priority = High
+City B: ID = 2, Coordinates = (5, 7), Demand = 30 units, Priority = Medium
+City C: ID = 3, Coordinates = (8, 2), Demand = 20 units, Priority = Low
+City D: ID = 4, Coordinates = (11, 4), Demand = 60 units, Priority = High
+City E: ID = 5, Coordinates = (7, 8), Demand = 40 units, Priority = Medium
+City F: ID = 6, Coordinates = (4, 12), Demand = 10 units, Priority = Low
+City G: ID = 7, Coordinates = (3, 15), Demand = 70 units, Priority = High
+City H: ID = 8, Coordinates = (6, 10), Demand = 35 units, Priority = Medium
+City I: ID = 9, Coordinates = (9, 14), Demand = 25 units, Priority = Low
+City J: ID = 10, Coordinates = (13, 3), Demand = 50 units, Priority = High
+City K: ID = 11, Coordinates = (15, 8), Demand = 30 units, Priority = Medium
+City L: ID = 12, Coordinates = (18, 5), Demand = 15 units, Priority = Low
+City M: ID = 13, Coordinates = (20, 7), Demand = 65 units, Priority = High
+City N: ID = 14, Coordinates = (22, 9), Demand = 45 units, Priority = Medium
+City O: ID = 15, Coordinates = (25, 6), Demand = 20 units, Priority = Low
+City P: ID = 16, Coordinates = (27, 12), Demand = 80 units, Priority = High
+City Q: ID = 17, Coordinates = (30, 8), Demand = 55 units, Priority = Medium
+City R: ID = 18, Coordinates = (33, 10), Demand = 35 units, Priority = Low
+City S: ID = 19, Coordinates = (35, 15), Demand = 90 units, Priority = High
+City T: ID = 20, Coordinates = (38, 12), Demand = 60 units, Priority = Medium
+City U: ID = 21, Coordinates = (40, 5), Demand = 25 units, Priority = Low
+City V: ID = 22, Coordinates = (43, 7), Demand = 50 units, Priority = High
+City W: ID = 23, Coordinates = (45, 10), Demand = 30 units, Priority = Medium
+City X: ID = 24, Coordinates = (48, 6), Demand = 15 units, Priority = Low
+City Y: ID = 25, Coordinates = (50, 15), Demand = 70 units, Priority = High
+City Z: ID = 26, Coordinates = (53, 12), Demand = 40 units, Priority = Medium
+City AA: ID = 27, Coordinates = (55, 8), Demand = 20 units, Priority = Low
+City AB: ID = 28, Coordinates = (58, 5), Demand = 65 units, Priority = High
+City AC: ID = 29, Coordinates = (60, 7), Demand = 45 units, Priority = Medium
+City AD: ID = 30, Coordinates = (63, 10), Demand = 35 units, Priority = Low
+City AE: ID = 31, Coordinates = (66, 12), Demand = 100 units, Priority = High
+City AF: ID = 32, Coordinates = (70, 8), Demand = 85 units, Priority = Medium
+City AG: ID = 33, Coordinates = (73, 10), Demand = 55 units, Priority = Low
+City AH: ID = 34, Coordinates = (75, 15), Demand = 120 units, Priority = High
+City AI: ID = 35, Coordinates = (78, 20), Demand = 65 units, Priority = Medium
+City AJ: ID = 36, Coordinates = (80, 5), Demand = 30 units, Priority = Low
+City AK: ID = 37, Coordinates = (83, 7), Demand = 110 units, Priority = High
+City AL: ID = 38, Coordinates = (85, 12), Demand = 50 units, Priority = Medium
+City AM: ID = 39, Coordinates = (88, 14), Demand = 35 units, Priority = Low
+City AN: ID = 40, Coordinates = (90, 8), Demand = 75 units, Priority = High
+City AO: ID = 41, Coordinates = (93, 10), Demand = 45 units, Priority = Medium
+City AP: ID = 42, Coordinates = (95, 6), Demand = 25 units, Priority = Low
+City AQ: ID = 43, Coordinates = (98, 4), Demand = 95 units, Priority = High
+City AR: ID = 44, Coordinates = (100, 9), Demand = 55 units, Priority = Medium
+City AS: ID = 45, Coordinates = (103, 13), Demand = 40 units, Priority = Low
+City AT: ID = 46, Coordinates = (105, 17), Demand = 85 units, Priority = High
+City AU: ID = 47, Coordinates = (108, 11), Demand = 60 units, Priority = Medium
+City AV: ID = 48, Coordinates = (110, 16), Demand = 35 units, Priority = Low
+City AW: ID = 49, Coordinates = (113, 6), Demand = 120 units, Priority = High
+City AX: ID = 50, Coordinates = (115, 8), Demand = 90 units, Priority = Medium
+
+Warehouses:
+Warehouse X: ID = 101, Coordinates = (10, 20), Capacity = 100 units
+Warehouse Y: ID = 102, Coordinates = (15, 25), Capacity = 150 units
+Warehouse Z: ID = 103, Coordinates = (20, 35), Capacity = 110 units
+Warehouse W: ID = 104, Coordinates = (25, 30), Capacity = 120 units
+Warehouse V: ID = 105, Coordinates = (30, 40), Capacity = 190 units
+Warehouse U: ID = 106, Coordinates = (5, 25), Capacity = 80 units
+Warehouse T: ID = 107, Coordinates = (18, 15), Capacity = 95 units
+Warehouse S: ID = 108, Coordinates = (20, 10), Capacity = 70 units
+Warehouse R: ID = 109, Coordinates = (35, 25), Capacity = 130 units
+Warehouse Q: ID = 110, Coordinates = (40, 45), Capacity = 150 units
+Warehouse P: ID = 111, Coordinates = (50, 20), Capacity = 110 units
+Warehouse O: ID = 112, Coordinates = (55, 30), Capacity = 195 units
+Warehouse N: ID = 113, Coordinates = (60, 35), Capacity = 120 units
+Warehouse M: ID = 114, Coordinates = (65, 25), Capacity = 80 units
+Warehouse L: ID = 115, Coordinates = (70, 10), Capacity = 75 units
+Warehouse M: ID = 116, Coordinates = (72, 15), Capacity = 90 units
+Warehouse N: ID = 117, Coordinates = (74, 20), Capacity = 100 units
+Warehouse O: ID = 118, Coordinates = (76, 25), Capacity = 120 units
+Warehouse P: ID = 119, Coordinates = (78, 30), Capacity = 110 units
+Warehouse Q: ID = 120, Coordinates = (80, 35), Capacity = 130 units
+Warehouse K: ID = 121, Coordinates = (45, 35), Capacity = 130 units
+Warehouse J: ID = 122, Coordinates = (50, 15), Capacity = 100 units
+Warehouse I: ID = 123, Coordinates = (60, 40), Capacity = 140 units
+Warehouse H: ID = 124, Coordinates = (65, 20), Capacity = 80 units
+Warehouse G: ID = 125, Coordinates = (70, 30), Capacity = 110 units
+Warehouse F: ID = 126, Coordinates = (75, 10), Capacity = 90 units
+Warehouse E: ID = 127, Coordinates = (80, 15), Capacity = 95 units
+Warehouse D: ID = 128, Coordinates = (85, 25), Capacity = 150 units
+Warehouse C: ID = 129, Coordinates = (90, 20), Capacity = 120 units
+Warehouse B: ID = 130, Coordinates = (95, 5), Capacity = 175 units
+Warehouse A: ID = 131, Coordinates = (100, 10), Capacity = 100 units
+Warehouse AA: ID = 132, Coordinates = (110, 30), Capacity = 140 units
+Warehouse AB: ID = 133, Coordinates = (115, 25), Capacity = 110 units
+Warehouse AC: ID = 134, Coordinates = (120, 35), Capacity = 120 units
+Warehouse AD: ID = 135, Coordinates = (125, 20), Capacity = 185 units
+Warehouse AE: ID = 136, Coordinates = (130, 15), Capacity = 100 units
+Warehouse AF: ID = 137, Coordinates = (135, 10), Capacity = 105 units
+Warehouse AG: ID = 138, Coordinates = (140, 5), Capacity = 130 units
+Warehouse AH: ID = 139, Coordinates = (145, 25), Capacity = 90 units
+Warehouse AI: ID = 140, Coordinates = (150, 30), Capacity = 150 units

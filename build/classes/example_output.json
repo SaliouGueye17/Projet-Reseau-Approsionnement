@@ -1,0 +1,118 @@
+{
+    "Task 1 and 2": {
+        "Graph Representation": {
+            "Cost Matrix": [
+                {
+                    "City": "City 1",
+                    "Warehouse 101": 37.58,
+                    "Warehouse 102": 76.66,
+                    "Warehouse 103": 110.15
+                },
+                {
+                    "City": "City 2",
+                    "Warehouse 101": 27.86,
+                    "Warehouse 102": 61.77,
+                    "Warehouse 103": 95.29
+                },
+                {
+                    "City": "City 3",
+                    "Warehouse 101": 36.22,
+                    "Warehouse 102": 72.12,
+                    "Warehouse 103": 105.34
+                }
+            ]
+        },
+        "Resource Allocation": [
+            {
+                "City": "City 1",
+                "Priority": "High",
+                "Allocated": 50,
+                "Warehouse": "Warehouse 101"
+            },
+            {
+                "City": "City 2",
+                "Priority": "Medium",
+                "Allocated": 30,
+                "Warehouse": "Warehouse 101"
+            },
+            {
+                "City": "City 3",
+                "Priority": "Low",
+                "Allocated": [
+                    {
+                        "Units": 20,
+                        "Warehouse": "Warehouse 101"
+                    },
+                    {
+                        "Units": 30,
+                        "Warehouse": "Warehouse 102"
+                    }
+                ]
+            }
+        ],
+        "Remaining Capacities": {
+            "Warehouse 101": 0,
+            "Warehouse 102": 20,
+            "Warehouse 103": 110
+        }
+    },
+    "Task 3": {
+        "Resource Redistribution": {
+            "Transfers": [
+                {
+                    "From": "Warehouse Z",
+                    "To": "Warehouse X",
+                    "Units": 50
+                },
+                {
+                    "From": "Warehouse Z",
+                    "To": "Warehouse Y",
+                    "Units": 10
+                }
+            ],
+            "Final Resource Levels": {
+                "Warehouse 101": 50,
+                "Warehouse 102": 30,
+                "Warehouse 103": 50
+            }
+        }
+    },
+    "Task 4": {
+        "Dynamic Resource Sharing": {
+            "Initial Clusters": {
+                "City A": "Cluster 1",
+                "City B": "Cluster 2",
+                "City C": "Cluster 3"
+            },
+            "Merging Steps": [
+                {
+                    "Action": "Merge",
+                    "Cities": [
+                        "City A",
+                        "City B"
+                    ],
+                    "Cluster After Merge": "Cluster 1"
+                }
+            ],
+            "Cluster Membership After Merging": {
+                "City A": "Cluster 1",
+                "City B": "Cluster 1",
+                "City C": "Cluster 3"
+            },
+            "Queries": [
+                {
+                    "Query": "Are City A and City C in the same cluster?",
+                    "Result": "No"
+                },
+                {
+                    "Query": "Are City A and City B in the same cluster?",
+                    "Result": "Yes"
+                },
+                {
+                    "Query": "Are City B and City C in the same cluster?",
+                    "Result": "No"
+                }
+            ]
+        }
+    }
+}
